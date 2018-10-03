@@ -1,0 +1,6 @@
+[example]
+beaker-test-vm1.beaker hostname=beaker-test-vm1.beaker
+
+[all]
+beaker-test-vm1.beaker hostname=beaker-test-vm1.beaker
+
